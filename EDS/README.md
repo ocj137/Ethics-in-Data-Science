@@ -20,7 +20,7 @@ a technical modification, as well as a social one.
 Technically, a possible solution might be implementing blockchain as way to insure privacy
 of data, as well as more transperancy of the transactions of data transactions. 
 
-Socially, it seems to me that we cannot allow this widely used techonology to be owned privately. 
+Socially, it seems to me that we cannot bring ourselves to allow this widely used techonology to be owned privately. 
 This widely used and needed resource needs to be governed in a public fashion. The question becomes then, how?
 
 Several possibilities come to mind:  as a heavily regulated private utility, like PG&E; a public utility; or as a commonly owned
