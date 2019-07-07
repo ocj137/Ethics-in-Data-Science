@@ -24,7 +24,16 @@ Socially, it seems to me that we cannot bring ourselves to allow this widely use
 This widely used and needed resource needs to be governed in a public fashion. The question becomes then, how?
 
 Several possibilities come to mind:  as a heavily regulated private utility, like PG&E; a public utility; or as a commonly owned
-collective entity. Oh, we can also let it continue as now....
+collective entity. Or, we can also let it continue as now....
 
 The present status quo, or the private utility model do not seem that appealing. We would just continue in the miserable path we are on now :(
 More interesting is to discuss the differences between public utility or commonly owned collective.	
+
+Meetup-EDS-firstmeeting contains my first thoughts on ethics in data science
+
+Meetup-EDS-Metis is a re-working of these thoughts presented at Metis. 
+
+Meetup-Ethical-Data-Science-is-an-Oxymoron is a presentation on contradictions of ethical data science.
+
+Meetup-Tech-Collectives-Incubator are some thoughts on a tech collectives incubator.
+
