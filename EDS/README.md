@@ -1,6 +1,6 @@
 # Ethics-in-Data-Science --> Ethical-Computing
 
-Here are initial thoughts on ethics in data science and why I started this meetup
+Some initial thoughts on ethics in data science and why I started this meetup
 as well as a presentation I did at Metis-SF. 
 
 
@@ -10,12 +10,12 @@ to Ethical Computing  to reflect that larger perspective.
 
 --------------------
 
-Now, a year plus into this meetup, I am less sanguine that much can be improved from within. 
+Now, some time into this meetup, I am less sanguine that much can be improved from within. 
 It seems to  me that the present computer business model, the survaillance economy, cannot be
 'improved' from within, as I had hope before! 
 
 At this point, the only we to proceed forward is to abolish this model. This will require both
-a technical modification, as well as a social one.
+a technical modification, as well as a social and political one.
 
 Technically, a possible solution might be implementing blockchain as way to insure privacy
 of data, as well as more transperancy of the transactions of data transactions. 
