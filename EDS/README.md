@@ -1,4 +1,4 @@
-# Ethics-in-Data-Science --> Ethical-Computing
+## Ethics-in-Data-Science --> Ethical-Computing
 
 Some initial thoughts on ethics in data science and why I started this meetup
 as well as a presentation I did at Metis-SF. 
